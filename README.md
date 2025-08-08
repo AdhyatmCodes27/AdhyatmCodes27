@@ -37,7 +37,8 @@
 
 Here are some of my pinned repositories:
 
-- [Suspicious Human Activity Detection System](https://github.com/AdhyatmCodes27/Suspicious_Human_Activity_Detection_System)
+- [Suspicious Human Activity Detection System (SHADS)](https://github.com/AdhyatmCodes27/Suspicious_Human_Activity_Detection_System)
+- [Automated ETL Pipeline using AWS](https://github.com/AdhyatmCodes27/AWS_ETL_Pipeline)
   
 ---
 
